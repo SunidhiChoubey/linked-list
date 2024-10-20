@@ -92,6 +92,6 @@ int main()
 }
 ~~~
 # Output-
-![](
+![](https://github.com/SunidhiChoubey/linked-list/blob/main/Screenshot%202024-10-21%20021047.png)
 # Conclusion- 
 We learnt about singly linked lists in C++ and learnt the use case of singly linked lists in C++.
